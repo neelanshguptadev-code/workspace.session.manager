@@ -1,0 +1,8 @@
+{
+  "uuid": "workspace-session-manager@gmail.com",
+  "name": "Workspace Sessions",
+  "description": "Save named desktop sessions and restore windows with their tabs, folders, directories, or documents when the application provides them. Unrelated windows are never closed.",
+  "shell-version": ["50"],
+  "url": "https://github.com/neelansh-gupta/workspace.session.manager",
+  "version": 18
+}
